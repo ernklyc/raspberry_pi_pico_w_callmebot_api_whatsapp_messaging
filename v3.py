@@ -6,8 +6,8 @@ from time import sleep
 # Wi-Fi ayarları
 ssid = 'ernklyc'
 password = '49200156'
-phone_number = '905438967227'
-api_key = '3964202'
+phone_number = '*********'
+api_key = '********'
 
 def init_wifi():
     wlan = network.WLAN(network.STA_IF)
