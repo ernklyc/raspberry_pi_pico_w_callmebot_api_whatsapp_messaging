@@ -7,8 +7,8 @@ import gc
 # Ayarlar
 ssid = 'ernklyc'
 password = '49200156'
-phone_number = '905438967227'
-api_key = '3964202'
+phone_number = '***********'
+api_key = '**********'
 
 # HTML sayfası
 html = """<!DOCTYPE html><html><head><meta charset="UTF-8">
