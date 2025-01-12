@@ -7,10 +7,10 @@ ssid = 'ernklyc'  # Bağlanılacak Wi-Fi ağı adı (SSID).
 password = '49200156'  # Wi-Fi şifresi.
 
 # Telefon numarası (uluslararası formatta)
-phone_number = '905438967227'  # WhatsApp mesajının gönderileceği telefon numarası.
+phone_number = '*********'  # WhatsApp mesajının gönderileceği telefon numarası.
 
 # CallMeBot API anahtarı
-api_key = '3964202'  # CallMeBot API için kimlik doğrulama anahtarı.
+api_key = '******'  # CallMeBot API için kimlik doğrulama anahtarı.
 
 # Wi-Fi bağlantısını başlatma fonksiyonu
 def init_wifi(ssid, password):
